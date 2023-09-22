@@ -1,4 +1,4 @@
-import IconSearch from "/Users/Tiago/projeto_next/portfolium/public/imagens/icon-search.svg"
+import IconSearch from "../imagens/icon-search.svg"
 import Image from "next/image"
 export default function Search(){
     return(

@@ -1,12 +1,12 @@
 import Image from "next/image";
 import { Container } from "./Container";
 
-import PhoneIcon from "/Users/Tiago/projeto_next/portfolium/public/imagens/icon-phone.svg"
-import SoluctionIcon from "/Users/Tiago/projeto_next/portfolium/public/imagens/icon-solutions.svg"
-import OptionsIcon from "/Users/Tiago/projeto_next/portfolium/public/imagens/icon-options.svg"
-import CardIcon from "/Users/Tiago/projeto_next/portfolium/public/imagens/icon-card.svg"
+import PhoneIcon from "../imagens/icon-phone.svg"
+import SoluctionIcon from "../imagens/icon-solutions.svg"
+import OptionsIcon from "../imagens/icon-options.svg"
+import CardIcon from "../imagens/icon-card.svg"
 
-import ImagePhone from "/Users/Tiago/projeto_next/portfolium/public/imagens/phone.png"
+import ImagePhone from "../imagens/phone.png"
 
 export function SectionService(){
     return(

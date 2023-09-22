@@ -1,9 +1,9 @@
 import Image from "next/image"
 import {Container} from "@/app/components/Container"
-import ImgAppleStore from "/Users/Tiago/projeto_next/portfolium/public/imagens/btn-apple-store.svg"
-import ImgGooglePlay from "/Users/Tiago/projeto_next/portfolium/public/imagens/btn-google-play.svg"
-import Arrow from "/Users/Tiago/projeto_next/portfolium/public/imagens/arrow-explorer.svg"
-import Woman from "/Users/Tiago/projeto_next/portfolium/public/imagens/woman.png"
+import ImgAppleStore from "../imagens/btn-apple-store.svg"
+import ImgGooglePlay from "../imagens/btn-google-play.svg"
+import Arrow from "../imagens/arrow-explorer.svg"
+import Woman from "../imagens/woman.png"
 
 export function SectionHero(){
     return(

@@ -4,8 +4,8 @@ import ItemMenu from './ItemMenu'
 import  Search  from './Search'
 import { Container } from './Container'
 
-import Logo from '/Users/Tiago/projeto_next/portfolium/public/imagens/logo.svg'
-import IconUsers from '/Users/Tiago/projeto_next/portfolium/public/imagens/icon-user.svg'
+import Logo from '../imagens/logo.svg'
+import IconUsers from '../imagens/icon-user.svg'
 
 export default function Header(){
     return(

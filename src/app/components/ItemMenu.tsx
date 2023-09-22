@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Arrow from '/Users/Tiago/projeto_next/portfolium/public/imagens/arrow-down.svg'
+import Arrow from '../imagens/arrow-down.svg'
 
 type Props = {
     name: string
